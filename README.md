@@ -11,16 +11,11 @@ To get started:
 6. SET DIRECTORY IN R STUDIO
 
 R-biophony V2.2
-
 Stuart H. Gage
-
 REAL-MSU
-
 gages@msu.edu
-
 2016-03-24
 
 
 Acknowledgments: Anne C. Axel, Eric Kasten, and Jerome Sueur
-
 Further edits made by J. Quinn and A. Schnidler
