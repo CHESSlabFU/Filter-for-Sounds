@@ -1,6 +1,7 @@
 # GMI_Filter_Sounds
 
 Welcome to GMI_Filter_Sounds!
+
 To get started:
 1. Set the directory in R-Studio prior to running R-Biophany in R on the desktop
 2. Set the number of characters for the Site (e.g. site <-- 4)
