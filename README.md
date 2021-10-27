@@ -12,4 +12,5 @@ To get started:
 
 
 Acknowledgments: Anne C. Axel, Eric Kasten, and Jerome Sueur
-Furthe edits made by J. Quinn and A. Schnidler
+
+Further edits made by J. Quinn and A. Schnidler
