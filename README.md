@@ -10,6 +10,16 @@ To get started:
 5. After setting directory in R-Studio, copy and paste this script in R-Studio
 6. SET DIRECTORY IN R STUDIO
 
+R-biophony V2.2
+
+Stuart H. Gage
+
+REAL-MSU
+
+gages@msu.edu
+
+2016-03-24
+
 
 Acknowledgments: Anne C. Axel, Eric Kasten, and Jerome Sueur
 
