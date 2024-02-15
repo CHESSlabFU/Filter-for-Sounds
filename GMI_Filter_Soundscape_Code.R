@@ -28,7 +28,7 @@ library(seewave);
 library(tidyverse)
 
 #set the directory where your files are found
-setwd("H:/SMA03738")
+setwd("")
 
 ## Change the NUMBER OF CHARACTERS for a Site Name and specify if there is a SPACE after the Site Name. e.g. TB0120150601-060000.wav (Site = 4 (TB01); Space = 0)
 ## Note that all Site Names in a biophony run should have the same length.
